@@ -51,10 +51,12 @@ module.exports={
                 </form>
             </div>
             </nav>
-            <div>
+            <div class='container'>
                 <h1><a href="/">WEB</a></h1>
                 ${list}
                 ${control}
+                <br>
+                <hr width="100%" color="black" noshade/>
                 ${body}
             </div>
         </body>
